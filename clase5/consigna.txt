@@ -1,0 +1,22 @@
+Test de unidad y E2E Selenium
+
+Ejercicio
+
+Programar un test en TestNg
+
+Descargar el código
+
+https://github.com/fabiancontigliani/testng.git
+
+Ejecutar los test
+
+mvn clean test -DsuiteXmlFile=testng.xml
+
+Programar un test en  Selenium que
+
+Ingrese a la biblioteca de la universidad: https://www.um.edu.ar/biblio/
+Buscar el libro "Ingeniería de Software" de Pressman
+Comprobar que exista
+Ejemplo
+
+https://github.com/fabiancontigliani/selenium-java.git 
