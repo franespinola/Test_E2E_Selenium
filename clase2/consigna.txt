@@ -1,0 +1,15 @@
+Para realizar las pruebas vamos a utilizar el software ofrecido por OWASP, el cual podremos obtener con el siguiente docker:
+
+docker run -p 8080:8080 -t webgoat/webgoat-8.0
+
+Ingresando luego a localhost podremos ingresar al siguiente link para realizar las prácticas
+
+WebGoat URL: http://127.0.0.1:8080/WebGoat
+
+También podemos ejercitarnos en ataques a aplicaciones NodeJS en los siguientes links:
+
+   https://github.com/OWASP/NodeGoat/tree/master
+
+ Al ejecutar la aplicación, en /tutorial vamos a ver instrucciones para realizar los ataques
+
+Realizar los ejercicios y enviar la solución por el chat de Google de la cátedra
